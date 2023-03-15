@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=difelice-e&label=Profile%20views&color=0e75b6&style=flat" alt="difelice-e" /> </p>
 
 <p align="left"> <a href="https://twitter.com/difelice_e" target="blank"><img src="https://img.shields.io/twitter/follow/difelice_e?logo=twitter&style=for-the-badge" alt="difelice_e" /></a> </p>
-- 🔭 I’m currently working fort **Ydea Srl**
+
+- 🔭 I’m currently working for **Ydea Srl**
 
 - 📫 How to reach me **difelice.emanuele@gmail.com**
 
