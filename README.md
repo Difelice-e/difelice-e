@@ -1,13 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Di Felice Emanuele, 24 years old</h1>
+<h1 align="center">Hi 👋, I'm Di Felice Emanuele, 25 years old</h1>
 <h3 align="center">A passionate Jr. Full Stack Web Developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=difelice-e&label=Profile%20views&color=0e75b6&style=flat" alt="difelice-e" /> </p>
 
 <p align="left"> <a href="https://twitter.com/difelice_e" target="blank"><img src="https://img.shields.io/twitter/follow/difelice_e?logo=twitter&style=for-the-badge" alt="difelice_e" /></a> </p>
-
-- 🔭 I’m currently working on **Blnbeta (analysis tool for nft)**
+- 🔭 I’m currently working fort **Ydea Srl**
 
 - 📫 How to reach me **difelice.emanuele@gmail.com**
 
